@@ -4,8 +4,8 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: the Geometry Group 
-middle_name: at
-last_name: Virginia Commonwealth University
+middle_name: #
+last_name: #
 email: #
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -143,7 +143,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)

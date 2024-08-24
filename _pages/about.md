@@ -26,7 +26,7 @@ We organize:
 
 - a research seminar
 
-- an annual meeting
+- an annual international meeting
 
 - a student seminar and
 

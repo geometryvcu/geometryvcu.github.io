@@ -25,3 +25,13 @@ Our research group has interests in algebraic geometry, low-dimensional topology
 We organize:
 
 - a research seminar
+
+- an annual international meeting
+
+- a student seminar and
+
+- a geometry summer camp
+
+<b>Press</b>
+
+VCU News: <a href='https://news.vcu.edu/article/2023/06/twisted-in-knots-thats-a-good-thing-at-vcu-geometry-camp-for-middle-schoolers'>Twisted in knots? That's a good thing at VCU Geometry Camp for middle-schoolers</a>

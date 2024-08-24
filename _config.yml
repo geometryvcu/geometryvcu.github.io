@@ -3,8 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Nicola
-last_name: Tarasca
+first_name: the Geometry Group
 email: tarascan@vcu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >

@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /events/
-title: seminar 24-25
-description: geometry seminar 2024--2025
+permalink: /seminar2425/
+title: geometry seminar 2024-2025
+description: schedule of lectures
 nav: false
 nav_order: #
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: seminar
 nav: true
 nav_order: 2
 dropdown: true

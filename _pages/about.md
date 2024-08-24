@@ -19,3 +19,13 @@ social: false # includes social icons at the bottom of the page
 ---
 
 Our research group has interests in algebraic geometry, low-dimensional topology and knot theory, string theory, and conformal field theory.
+
+<b>Events</b>
+
+We organize: 
+— a research seminar
+— an annual meeting
+— a student seminar and
+— a geometry summer camp
+
+

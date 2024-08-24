@@ -22,6 +22,6 @@ Our research group has interests in algebraic geometry, low-dimensional topology
 
 <b>Events</b>
 
-We organize: 
+We organize:
 
 - a research seminar

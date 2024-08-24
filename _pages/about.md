@@ -23,9 +23,13 @@ Our research group has interests in algebraic geometry, low-dimensional topology
 <b>Events</b>
 
 We organize: 
+
 — a research seminar
+
 — an annual meeting
+
 — a student seminar and
+
 — a geometry summer camp
 
 

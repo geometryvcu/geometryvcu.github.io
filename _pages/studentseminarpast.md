@@ -41,7 +41,7 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 — Friday, Mar 17:  Brent Cody: Cech cohomology of derived topologies on ordinals
 
-— Thursday, April 6: D'Angelo Holder:  Complex analysis topics continued
+— Thursday, April 6: D'Angelo Holder: Complex analysis topics continued
 
 — Friday, April 14: Allison Moore: Intro to knot Floer homology 1
 

@@ -23,7 +23,7 @@ The first two editions were held virtually in 2021 and 2022.
 
 - <a href='https://nicolatarasca.github.io'>Nicola Tarasca</a>
 
-<b>Past Speakers</a>
+<b>Past Speakers</b>
 
 - Ross Akhmechet (Columbia University)
 

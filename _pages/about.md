@@ -26,7 +26,7 @@ We organize:
 
 - a <a href='/seminarfuture/'>research seminar</a>
 
-- an annual international meeting
+- an <a href='/rgmmain/'>annual international meeting</a>
 
 - a <a href='/studentseminarfuture/'>student seminar</a> and
 

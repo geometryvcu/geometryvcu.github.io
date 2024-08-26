@@ -45,7 +45,7 @@ The first two editions were held virtually in 2021 and 2022.
 
 - Melissa Chiu-Chu Liu (Columbia University)
 
-- Charles Doran (Bard College and University of Alberta, Canada) 
+- Charles Doran (Bard College and University of Alberta, Canada)
 
 - Gavril Farkas (Humboldt-Universität zu Berlin)
 
@@ -53,17 +53,17 @@ The first two editions were held virtually in 2021 and 2022.
 
 - Sergei Gukov (California Institute of Technology)
 
-- Reimundo Heluani (IMPA, Brazil) 
+- Reimundo Heluani (IMPA, Brazil)
 
 - Jennifer Hom (Georgia Tech)
 
 - Shashank Kanade (University of Denver)
 
-- Slava Krushkal (University of Virginia) 
+- Slava Krushkal (University of Virginia)
 
 - Robert Lipshitz (University of Oregon)
 
-- Beibei Liu (MIT) 
+- Beibei Liu (MIT)
 
 - Marcos Mariño (University of Geneva)
 
@@ -71,9 +71,9 @@ The first two editions were held virtually in 2021 and 2022.
 
 - Danielle O’Donnol (Marymount University)
 
-- Dragos Oprea (University of California San Diego) 
+- Dragos Oprea (University of California San Diego)
 
-- Angela Ortega (Humboldt University in Berlin) 
+- Angela Ortega (Humboldt University in Berlin)
 
 - Nicola Pagani (Univertsity of Liverpool, UK)
 
@@ -85,7 +85,7 @@ The first two editions were held virtually in 2021 and 2022.
 
 - Józef H. Przytycki (George Washington University)
 
-- Pavel Putrov (ICTP, Italy) 
+- Pavel Putrov (ICTP, Italy)
 
 - Orsola Tommasi (Università degli Studi di Padova)
 

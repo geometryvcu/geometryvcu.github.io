@@ -5,9 +5,7 @@ nav: true
 nav_order: 4
 dropdown: true
 children:
-  - title: future
-    permalink: /seminarfuture/
+  - title: RGM main
+    permalink: /rgmmain/
   - title: divider
-  - title: past
-    permalink: /seminarpast/
----
+  ---

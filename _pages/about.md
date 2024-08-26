@@ -28,7 +28,7 @@ We organize:
 
 - an annual international meeting
 
-- a student seminar and
+- a <a href='/studentseminarfuture/'>student seminar</a> and
 
 - a geometry summer camp
 

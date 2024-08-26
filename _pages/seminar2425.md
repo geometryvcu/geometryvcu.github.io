@@ -7,5 +7,5 @@ nav: false
 nav_order: #
 ---
 
-<div class="embeddable_schedule" shortname="vcugeomandtop" daterange="future"></div>
+<div class="embeddable_schedule" shortname="vcugeomandtop" daterange="2024-08-30,2025-04-18"></div>
 <script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>

@@ -2,7 +2,7 @@
 layout: page
 permalink: /seminar2425/
 title: geometry seminar 2024-2025
-description: schedule of lectures
+description: schedule of future lectures
 nav: false
 nav_order: #
 ---

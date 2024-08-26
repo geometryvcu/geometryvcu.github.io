@@ -7,7 +7,7 @@ nav: false
 nav_order: #
 ---
 
-![Group Pic](geometryvcu.github.io/assets/img/IMG_0890.jpeg)
+![Group Pic](https://geometryvcu.github.io/assets/img/IMG_0890.jpeg)
 
 <b>Spring 2024 Schedule</b>
 

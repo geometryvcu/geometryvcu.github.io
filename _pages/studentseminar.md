@@ -1,13 +1,13 @@
 ---
 layout: page
-title: seminar
+title: student seminar
 nav: true
-nav_order: 2
+nav_order: 3
 dropdown: true
 children:
   - title: future
-    permalink: /seminarfuture/
+    permalink: /studentseminarfuture/
   - title: divider
   - title: past
-    permalink: /seminarpast/
+    permalink: /studentseminarpast/
 ---

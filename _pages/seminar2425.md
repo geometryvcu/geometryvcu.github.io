@@ -7,5 +7,16 @@ nav: false
 nav_order: #
 ---
 
-<div class="embeddable_schedule" shortname="vcugeomandtop" daterange="2024-08-30,2025-04-18"></div>
-<script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
+<div id="seminar-schedule"></div>
+<script src="https://researchseminars.org/embed_seminars.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        seminarEmbedder.initialize({
+            container: '#seminar-schedule',
+            shortname: 'vcugeomandtop',
+            startDate: '2024-08-25',
+            endDate: '2025-05-05',
+            addCSS: true
+        });
+    });
+</script>

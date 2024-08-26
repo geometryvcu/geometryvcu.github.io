@@ -8,4 +8,4 @@ children:
   - title: RGM main
     permalink: /rgmmain/
   - title: divider
-  ---
+---

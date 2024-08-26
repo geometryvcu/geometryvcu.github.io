@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /seminarfuture/
-title: geometry seminar 
+title: geometry seminar
 description: schedule of future lectures
 nav: false
 nav_order: #

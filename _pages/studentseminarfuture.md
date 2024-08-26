@@ -1,13 +1,12 @@
 ---
 layout: page
-permalink: /seminarfuture/
-title: geometry seminar
+permalink: /studentseminarfuture/
+title: student geometry seminar
 description: schedule of future lectures
 nav: false
 nav_order: #
 ---
 
-<div class="embeddable_schedule" shortname="vcugeomandtop" daterange="future"></div>
-<script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
+TBA
 
-<a href='/seminarpast/'>Click here for the schedule of past lectures</a>
+<a href='/studentseminarpast/'>Click here for the schedule of past lectures</a>

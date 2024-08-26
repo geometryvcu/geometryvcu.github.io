@@ -5,7 +5,9 @@ nav: true
 nav_order: 2
 dropdown: true
 children:
-  - title: 2024-2025
-    permalink: /seminar2425/
+  - title: future
+    permalink: /seminarfuture/
   - title: divider
+  - title: past
+    permalink: /seminarpast/
 ---

@@ -29,11 +29,11 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 — Friday, Jan 20: Organizational
 
-— Thursday, Feb 2: Sam Bevins:  Hypergraphs and Lie algebras + infinity
+— Thursday, Feb 2: Sam Bevins: Hypergraphs and Lie algebras + infinity
 
 — Friday, Feb 10: John Carney: Smooth four-genus
 
-— Thursday,  Feb 16: Jeff Buffkin: Complex analysis  topics
+— Thursday, Feb 16: Jeff Buffkin: Complex analysis  topics
 
 — Friday, Feb 24: Anna Shaw: Chord diagrams
 
@@ -41,11 +41,11 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 — Friday, Mar 17:  Brent Cody: Cech cohomology of derived topologies on ordinals
 
-— Thursday April 6: D'Angelo Holder:  Complex analysis topics continued
+— Thursday, April 6: D'Angelo Holder:  Complex analysis topics continued
 
-— Friday  April 14: Allison Moore: Intro to knot Floer homology 1
+— Friday, April 14: Allison Moore: Intro to knot Floer homology 1
 
-— Thursday  April 20: Allison Moore: Intro to knot Floer homology 2
+— Thursday, April 20: Allison Moore: Intro to knot Floer homology 2
 
 <b>Fall 2022 Schedule</b>
 
@@ -55,15 +55,15 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 — Sep 9: Sam Bevins:  Hypergraphs and Lie algebras
 
-— Sep 16: Sam Bevins (Lie algebras continued) and John Carney (Alexander polynomial - original formulation) — at 11am in HH 4145
+— Sep 16: Sam Bevins (Lie algebras continued) and John Carney (Alexander polynomial - original formulation) - at 11am in HH 4145
 
 — Sep 23: John Carney (Alexander polynomial continued)
 
 — Sep 30: Eric Evans (Heisenberg Lie algebra)
 
-— Oct  7: Eric Evans ((Heisenberg Lie algebra continued) and Anna Shaw (Vassiliev invariants)  — at 3pm in HH 4145
+— Oct  7: Eric Evans ((Heisenberg Lie algebra continued) and Anna Shaw (Vassiliev invariants)  - at 3pm in HH 4145
 
-— Oct 14: Anna Shaw (Vassiliev invariants continued)— at 11am in HH 4145
+— Oct 14: Anna Shaw (Vassiliev invariants continued)- at 11am in HH 4145
 
 — Oct 28: Madeline Boyes (Homotopy)
 
@@ -71,7 +71,7 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 — Nov 11:  Sam Bevins (Lie algebra cohomology)
 
-— Nov 18:  Jeff Buffkin (Lie Algebra cocycles and extensions)— at 11am in HH 4145
+— Nov 18:  Jeff Buffkin (Lie Algebra cocycles and extensions)- at 11am in HH 4145
 
 — Dec 2:  John Carney (Fundamental group)
 

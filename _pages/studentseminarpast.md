@@ -9,19 +9,19 @@ nav_order: #
 
 <b>Spring 2024 Schedule</b>
 
-In Spring 2024, the student geometry seminar meets on Fridays, 2:00 -- 2:50 PM, in Harris Hall 4145 (unless otherwise noted).
+In Spring 2024, the student geometry seminar meets on Fridays, 2:00 - 2:50 PM, in Harris Hall 4145 (unless otherwise noted).
 
-— Jan 26: Organizational meeting at tea time
+- Jan 26: Organizational meeting at tea time
 
-— Feb 2: Sam Bevins -- Lie algebras
+- Feb 2: Sam Bevins: Lie algebras
 
-— Feb 9: John Carney -- 2-Adjacent Knots: All that We Wish We Knew About Them
+- Feb 9: John Carney: 2-Adjacent Knots: All that We Wish We Knew About Them
 
-— Feb 23:  Roberto Estrada --  Braid games
+- Feb 23:  Roberto Estrada:  Braid games
 
-— Mar 3:  Everett Meike (grad student at NCSU)
+- Mar 3:  Everett Meike (grad student at NCSU)
 
-— Mar 15: John Carney -- Vassiliev invariants
+- Mar 15: John Carney: Vassiliev invariants
 
 <b>Spring 2023 Schedule</b>
 
@@ -55,15 +55,15 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 — Sep 9: Sam Bevins:  Hypergraphs and Lie algebras
 
-— Sep 16: Sam Bevins (Lie algebras continued) and John Carney (Alexander polynomial - original formulation) - at 11am in HH 4145
+— Sep 16: Sam Bevins (Lie algebras continued) and John Carney (Alexander polynomial: original formulation): at 11am in HH 4145
 
 — Sep 23: John Carney (Alexander polynomial continued)
 
 — Sep 30: Eric Evans (Heisenberg Lie algebra)
 
-— Oct  7: Eric Evans ((Heisenberg Lie algebra continued) and Anna Shaw (Vassiliev invariants)  - at 3pm in HH 4145
+— Oct  7: Eric Evans ((Heisenberg Lie algebra continued) and Anna Shaw (Vassiliev invariants): at 3pm in HH 4145
 
-— Oct 14: Anna Shaw (Vassiliev invariants continued)- at 11am in HH 4145
+— Oct 14: Anna Shaw (Vassiliev invariants continued): at 11am in HH 4145
 
 — Oct 28: Madeline Boyes (Homotopy)
 
@@ -71,7 +71,7 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 — Nov 11:  Sam Bevins (Lie algebra cohomology)
 
-— Nov 18:  Jeff Buffkin (Lie Algebra cocycles and extensions)- at 11am in HH 4145
+— Nov 18:  Jeff Buffkin (Lie Algebra cocycles and extensions): at 11am in HH 4145
 
 — Dec 2:  John Carney (Fundamental group)
 

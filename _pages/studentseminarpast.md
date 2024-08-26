@@ -19,7 +19,7 @@ In Spring 2024, the student geometry seminar meets on Fridays, 2:00 -- 2:50 PM, 
 
 — Feb 23:  Roberto Estrada --  Braid games
 
-— Mar 3:  Everett Meike (grad student at NCSU) 
+— Mar 3:  Everett Meike (grad student at NCSU)
 
 — Mar 15: John Carney -- Vassiliev invariants
 
@@ -29,7 +29,7 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 — Friday, Jan 20: Organizational
 
-— Thursday, Feb 2: Sam Bevins:  Hypergraphs and Lie algebras + \infty
+— Thursday, Feb 2: Sam Bevins:  Hypergraphs and Lie algebras + infinity
 
 — Friday, Feb 10: John Carney: Smooth four-genus
 
@@ -45,7 +45,7 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 — Friday  April 14: Allison Moore: Intro to knot Floer homology 1
 
-— Thursday  April 20: Allison Moore: Intro to knot Floer homology 2 
+— Thursday  April 20: Allison Moore: Intro to knot Floer homology 2
 
 <b>Fall 2022 Schedule</b>
 
@@ -67,7 +67,7 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 — Oct 28: Madeline Boyes (Homotopy)
 
-— Nov 4: Allison Moore ("What is homology")
+— Nov 4: Allison Moore (What is homology)
 
 — Nov 11:  Sam Bevins (Lie algebra cohomology)
 

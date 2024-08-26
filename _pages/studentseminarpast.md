@@ -31,18 +31,18 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 - Thursday, Feb 2: Sam Bevins: Hypergraphs and Lie algebras + infinity
 
-— Friday, Feb 10: John Carney: Smooth four-genus
+- Friday, Feb 10: John Carney: Smooth four-genus
 
-— Thursday, Feb 16: Jeff Buffkin: Complex analysis  topics
+- Thursday, Feb 16: Jeff Buffkin: Complex analysis  topics
 
-— Friday, Feb 24: Anna Shaw: Chord diagrams
+- Friday, Feb 24: Anna Shaw: Chord diagrams
 
-— Thursday, Mar 2: Jeff Buffkin: Complex analysis continued
+- Thursday, Mar 2: Jeff Buffkin: Complex analysis continued
 
-— Friday, Mar 17:  Brent Cody: Cech cohomology of derived topologies on ordinals
+- Friday, Mar 17:  Brent Cody: Cech cohomology of derived topologies on ordinals
 
-— Thursday, April 6: D'Angelo Holder: Complex analysis topics continued
+- Thursday, April 6: D'Angelo Holder: Complex analysis topics continued
 
-— Friday, April 14: Allison Moore: Intro to knot Floer homology 1
+- Friday, April 14: Allison Moore: Intro to knot Floer homology 1
 
-— Thursday, April 20: Allison Moore: Intro to knot Floer homology 2
+- Thursday, April 20: Allison Moore: Intro to knot Floer homology 2

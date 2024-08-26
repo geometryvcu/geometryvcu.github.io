@@ -61,6 +61,18 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 - Sep 30: Eric Evans (Heisenberg Lie algebra)
 
-- Oct  7: Eric Evans (Heisenberg Lie algebra continued) and Anna Shaw (Vassiliev invariants): at 3pm in HH 4145
+- Oct 7: Eric Evans (Heisenberg Lie algebra continued) and Anna Shaw (Vassiliev invariants): at 3pm in HH 4145
 
 - Oct 14: Anna Shaw (Vassiliev invariants continued): at 11am in HH 4145
+
+- Oct 28: Madeline Boyes (Homotopy)
+
+- Nov 4: Allison Moore (What is homology)
+
+- Nov 11: Sam Bevins (Lie algebra cohomology)
+
+- Nov 18: Jeff Buffkin (Lie Algebra cocycles and extensions): at 11am in HH 4145
+
+- Dec 2: John Carney (Fundamental group)
+
+- Dec 9: Eric Evans

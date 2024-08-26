@@ -8,7 +8,7 @@ nav_order: #
 ---
 
 <div align="center">
-	<img width = "33%" src="https://geometryvcu.github.io/assets/img/IMG_0890.jpeg">
+	<img width = "90%" src="https://geometryvcu.github.io/assets/img/IMG_0890.jpeg">
 </div>
 
 TBA

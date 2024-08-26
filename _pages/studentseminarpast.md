@@ -39,7 +39,7 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 - Thursday, Mar 2: Jeff Buffkin: Complex analysis continued
 
-- Friday, Mar 17:  Brent Cody: Cech cohomology of derived topologies on ordinals
+- Friday, Mar 17: Brent Cody: Cech cohomology of derived topologies on ordinals
 
 - Thursday, April 6: D'Angelo Holder: Complex analysis topics continued
 

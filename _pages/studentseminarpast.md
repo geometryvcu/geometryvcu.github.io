@@ -53,7 +53,7 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 - Sep 2: Marco Aldi: overview of linking number and Kontsevich integral
 
-- Sep 9: Sam Bevins:  Hypergraphs and Lie algebras
+- Sep 9: Sam Bevins: Hypergraphs and Lie algebras
 
 - Sep 16: Sam Bevins (Lie algebras continued) and John Carney (Alexander polynomial: original formulation): at 11am in HH 4145
 

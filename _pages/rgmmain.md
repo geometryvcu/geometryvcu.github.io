@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /rgmmain/
-title: Richmond Geometry Meeting
+title: the Richmond Geometry Meeting
 description: an international event
 nav: false
 nav_order: #

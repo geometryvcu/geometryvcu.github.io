@@ -33,6 +33,6 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 
 - Friday, Feb 10: John Carney: Smooth four-genus
 
-- Thursday, Feb 16: Jeff Buffkin: Complex analysis  topics
+- Thursday, Feb 16: Jeff Buffkin: Complex analysis topics
 
 - Friday, Feb 24: Anna Shaw: Chord diagrams

@@ -7,6 +7,8 @@ nav: false
 nav_order: #
 ---
 
+![Group Pic](assets/img/IMG_0890.jpeg)
+
 <b>Spring 2024 Schedule</b>
 
 In Spring 2024, the student geometry seminar meets on Fridays, 2:00 - 2:50 PM, in Harris Hall 4145 (unless otherwise noted).

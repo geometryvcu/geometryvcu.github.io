@@ -58,3 +58,9 @@ This semester we will alternate between two times: Thursdays 1-2pm and Fridays 1
 - Sep 16: Sam Bevins (Lie algebras continued) and John Carney (Alexander polynomial: original formulation): at 11am in HH 4145
 
 - Sep 23: John Carney (Alexander polynomial continued)
+
+- Sep 30: Eric Evans (Heisenberg Lie algebra)
+
+- Oct  7: Eric Evans (Heisenberg Lie algebra continued) and Anna Shaw (Vassiliev invariants): at 3pm in HH 4145
+
+- Oct 14: Anna Shaw (Vassiliev invariants continued): at 11am in HH 4145

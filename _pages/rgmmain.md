@@ -15,7 +15,7 @@ The 2023 edition was held in person and was supported by NSF award <a href='http
 
 The first two editions were held virtually in 2021 and 2022.
 
-<b>Contacts</b>
+<b>Organizers</b>
 
 - <a href='https://math.vcu.edu/directory/aldi.html'>Marco Aldi</a>
 

@@ -7,9 +7,5 @@ nav: false
 nav_order: #
 ---
 
-<iframe 
-    src="https://researchseminars.org/edit/schedule/?shortname=vcugeomandtop&begin=Aug+25,+2024&end=Dec+18,+2024" 
-    width="100%" 
-    height="600px" 
-    style="border: none;">
-</iframe>
+<div class="embeddable_schedule" shortname="vcugeomandtop" daterange="future"></div>
+<script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>

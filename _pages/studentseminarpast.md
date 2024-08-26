@@ -22,3 +22,11 @@ In Spring 2024, the student geometry seminar meets on Fridays, 2:00 - 2:50 PM, i
 - Mar 3: Everett Meike (grad student at NCSU)
 
 - Mar 15: John Carney: Vassiliev invariants
+
+<b>Spring 2023 Schedule</b>
+
+This semester we will alternate between two times: Thursdays 1-2pm and Fridays 11-12 am, and according to the schedule below.
+
+— Friday, Jan 20: Organizational
+
+— Thursday, Feb 2: Sam Bevins: Hypergraphs and Lie algebras + infinity

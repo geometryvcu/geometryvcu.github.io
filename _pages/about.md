@@ -24,7 +24,7 @@ Our research group has interests in algebraic geometry, low-dimensional topology
 
 We organize:
 
-- a research seminar
+- a <a href='/seminarfuture/'>research seminar</a>
 
 - an annual international meeting
 

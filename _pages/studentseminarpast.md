@@ -14,3 +14,5 @@ In Spring 2024, the student geometry seminar meets on Fridays, 2:00 - 2:50 PM, i
 - Jan 26: Organizational meeting at tea time
 
 - Feb 2: Sam Bevins: Lie algebras
+
+- Feb 9: John Carney: 2-Adjacent Knots: All that We Wish We Knew About Them

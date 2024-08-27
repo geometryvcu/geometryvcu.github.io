@@ -75,7 +75,7 @@ The first two editions were held virtually in 2021 and 2022.
 
 - Angela Ortega (Humboldt University in Berlin)
 
-- Nicola Pagani (Univertsity of Liverpool, UK)
+- Nicola Pagani (University of Liverpool, UK)
 
 - Rahul Pandharipande (ETH Zürich)
 

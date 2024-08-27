@@ -7,5 +7,7 @@ dropdown: true
 children:
   - title: RGM main
     permalink: /rgmmain/
-  #- title: divider
+  - title: divider
+  - title: RGM 2024
+    permalink: /rgm2024/
 ---

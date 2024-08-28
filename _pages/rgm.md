@@ -10,4 +10,7 @@ children:
   - title: divider
   - title: RGM 2024
     permalink: /rgm2024/
+  - title: divider
+  - title: RGM 2023
+    permalink: /rgm2023/
 ---

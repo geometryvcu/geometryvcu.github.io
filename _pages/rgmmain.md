@@ -11,7 +11,7 @@ The Richmond Geometry Meeting is an annual international event hosted at Virgini
 
 The <a href='/rgm2024/'>2024</a> edition was held in person and was supported by NSF award <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2349810'>DMS-2349810</a>.
 
-The 2023 edition was held in person and was supported by NSF award <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2240741'>DMS-2240741</a>.
+The <a href='/rgm2023/'>2023</a> edition was held in person and was supported by NSF award <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2240741'>DMS-2240741</a>.
 
 The first two editions were held virtually in 2021 and 2022.
 

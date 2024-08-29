@@ -13,7 +13,7 @@ The <a href='/rgm2024/'>2024</a> edition was held in person and was supported by
 
 The <a href='/rgm2023/'>2023</a> edition was held in person and was supported by NSF award <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2240741'>DMS-2240741</a>.
 
-The first two editions were held virtually in 2021 and <a href='/rgm2022/'>2022</a>.
+The first two editions were held virtually in <a href='/rgm2022/'>2021</a> and <a href='/rgm2022/'>2022</a>.
 
 <b>Organizers</b>
 

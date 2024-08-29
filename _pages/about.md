@@ -34,7 +34,7 @@ We organize:
 
 <b>Press</b>
 
-VCU News: <a href='https://news.vcu.edu/article/2023/06/twisted-in-knots-thats-a-good-thing-at-vcu-geometry-camp-for-middle-schoolers'>Twisted in knots? That's a good thing at VCU Geometry Camp for middle-schoolers</a>
+- VCU News: <a href='https://news.vcu.edu/article/2023/06/twisted-in-knots-thats-a-good-thing-at-vcu-geometry-camp-for-middle-schoolers'>Twisted in knots? That's a good thing at VCU Geometry Camp for middle-schoolers</a>
 
 <b>Contacts</b>
 

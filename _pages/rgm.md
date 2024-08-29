@@ -16,4 +16,7 @@ children:
   - title: divider
   - title: RGM 2022
     permalink: /rgm2022/
+  - title: divider
+  - title: RGM 2021
+    permalink: /rgm2021/
 ---

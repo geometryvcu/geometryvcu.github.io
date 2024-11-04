@@ -11,6 +11,7 @@ nav_order: #
 	<img width = "100%" src="https://geometryvcu.github.io/assets/img/IMG_0890.jpeg">
 </div>
 
-TBA
+<div class="embeddable_schedule" shortname="vcustudgeosem" daterange="future"></div>
+<script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
 
 <a href='/studentseminarpast/'>Click here for the schedule of past lectures</a>

@@ -11,7 +11,7 @@ nav_order: #
 	<img width = "100%" src="https://geometryvcu.github.io/assets/img/IMG_0890.jpeg">
 </div>
 
-<br><br>
+<br>
 
 <b>Past Schedule Since Fall 2024</b>
 

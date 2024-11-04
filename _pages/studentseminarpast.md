@@ -11,6 +11,11 @@ nav_order: #
 	<img width = "100%" src="https://geometryvcu.github.io/assets/img/IMG_0890.jpeg">
 </div>
 
+<b>Past Schedule Since Fall 2024</b>
+
+<div class="embeddable_schedule" shortname="vcustudgeosem" daterange="past"></div>
+<script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
+
 <b>Spring 2024 Schedule</b>
 
 In Spring 2024, the student geometry seminar meets on Fridays, 2:00 - 2:50 PM, in Harris Hall 4145 (unless otherwise noted).

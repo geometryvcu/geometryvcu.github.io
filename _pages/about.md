@@ -40,6 +40,6 @@ We organize:
 
 - <a href='https://math.vcu.edu/directory/aldi.html'>Marco Aldi</a>
 
-- <a href='https://math.vcu.edu/directory/moore.html'>Allison Moore</a>
+- <a href='https://allisonhmoore.github.io'>Allison Moore</a>
 
 - <a href='https://nicolatarasca.github.io'>Nicola Tarasca</a>

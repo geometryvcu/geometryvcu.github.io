@@ -8,6 +8,9 @@ children:
   - title: RGM main
     permalink: /rgmmain/
   - title: divider
+  - title: RGM 2025
+    permalink: /rgm2025/
+  - title: divider
   - title: RGM 2024
     permalink: /rgm2024/
   - title: divider

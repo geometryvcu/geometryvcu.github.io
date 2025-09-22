@@ -71,6 +71,8 @@ The first two editions were held virtually in <a href='/rgm2022/'>2021</a> and <
 
 - Slava Krushkal (University of Virginia)
 
+- Christine Ruey Shan Lee (Texas State University)
+
 - Robert Lipshitz (University of Oregon)
 
 - Beibei Liu (MIT)
@@ -98,8 +100,6 @@ The first two editions were held virtually in <a href='/rgm2022/'>2021</a> and <
 - Józef H. Przytycki (George Washington University)
 
 - Pavel Putrov (ICTP, Italy)
-
-- Christine Ruey Shan Lee (Texas State University)
 
 - Matthew Stoffregen (Michigan State University)
 

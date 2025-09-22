@@ -9,7 +9,7 @@ nav_order: #
 
 The Richmond Geometry Meeting is an annual international event hosted at Virginia Commonwealth University which aims at bringing together researchers in algebraic geometry, low-dimensional topology, and mathematical physics.
 
-The <a href='/rgm2025/'>2025</a> edition will be held in person and be supported by NSF award <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2528113'>DMS-2528113</a>.
+The <a href='/rgm2025/'>2025</a> edition was held in person and was supported by NSF award <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2528113'>DMS-2528113</a>.
 
 The <a href='/rgm2024/'>2024</a> edition was held in person and was supported by NSF award <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2349810'>DMS-2349810</a>.
 
@@ -33,7 +33,11 @@ The first two editions were held virtually in <a href='/rgm2022/'>2021</a> and <
 
 - Hülya Argüz (University of Georgia)
 
+- Denis Auroux (Harvard University)
+
 - Scott Baldridge (Louisiana State University)
+
+- Rhea Palak Bakshi (University of California, Santa Barbara)
 
 - Maciej Borodzik (University of Warsaw)
 
@@ -59,7 +63,11 @@ The first two editions were held virtually in <a href='/rgm2022/'>2021</a> and <
 
 - Jennifer Hom (Georgia Tech)
 
+- Mrunmay Jagadale (Caltech)
+
 - Shashank Kanade (University of Denver)
+
+- Mikhail Khovanov (Johns Hopkins University)
 
 - Slava Krushkal (University of Virginia)
 
@@ -68,6 +76,8 @@ The first two editions were held virtually in <a href='/rgm2022/'>2021</a> and <
 - Beibei Liu (MIT)
 
 - Marcos Mariño (University of Geneva)
+
+- Yuya Murakami (Kyushu University)
 
 - Caner Nazaroglu (University of Cologne, Germany)
 
@@ -89,8 +99,16 @@ The first two editions were held virtually in <a href='/rgm2022/'>2021</a> and <
 
 - Pavel Putrov (ICTP, Italy)
 
+- Christine Ruey Shan Lee (Texas State University)
+
+- Matthew Stoffregen (Michigan State University)
+
 - Orsola Tommasi (Università degli Studi di Padova)
 
 - Burt Totaro (UCLA)
+
+- Richard A. Wentworth (University of Maryland)
+
+- Boyu Zhang (University of Maryland)
 
 - Claudius Zibrowius (Universität Regensburg)

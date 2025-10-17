@@ -1,25 +1,10 @@
 ---
 layout: page
-title: richmond geometry meeting
+title: richmond geometry day
 nav: true
-nav_order: 2
+nav_order: 3
 dropdown: true
 children:
-  - title: RGM main
-    permalink: /rgmmain/
-  - title: divider
-  - title: RGM 2025
-    permalink: /rgm2025/
-  - title: divider
-  - title: RGM 2024
-    permalink: /rgm2024/
-  - title: divider
-  - title: RGM 2023
-    permalink: /rgm2023/
-  - title: divider
-  - title: RGM 2022
-    permalink: /rgm2022/
-  - title: divider
-  - title: RGM 2021
-    permalink: /rgm2021/
+  - title: RGD Spring 2026
+    permalink: /rgd2026/
 ---

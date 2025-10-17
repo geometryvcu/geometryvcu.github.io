@@ -1,6 +1,6 @@
 ---
 layout: page
-title: richmond geometry day
+title: RGD
 nav: true
 nav_order: 3
 dropdown: true

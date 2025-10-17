@@ -24,7 +24,9 @@ Our research group has interests in algebraic geometry, low-dimensional topology
 
 We organize:
 
-- an <a href='/rgmmain/'>annual international meeting</a>
+- an <a href='/rgmmain/'>annual international research meeting</a>
+
+- an occasional <a href='/rgd2026/'>research workshop</a>
 
 - a <a href='/seminarfuture/'>research seminar</a>
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: richmond geometry meeting
+title: RGM
 nav: true
 nav_order: 2
 dropdown: true

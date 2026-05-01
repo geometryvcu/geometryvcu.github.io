@@ -19,7 +19,7 @@ The first two editions were held virtually in <a href='/rgm2022/'>2021</a> and <
 
 <b>Organizers</b>
 
-- <a href='https://math.vcu.edu/directory/aldi.html'>Marco Aldi</a>
+- <a href='http://maldi2.github.io/'>Marco Aldi</a>
 
 - <a href='https://math.vcu.edu/directory/moore.html'>Allison Moore</a>
 

@@ -40,7 +40,7 @@ We organize:
 
 <b>Contacts</b>
 
-- <a href='https://math.vcu.edu/directory/aldi.html'>Marco Aldi</a>
+- <a href='http://maldi2.github.io/'>Marco Aldi</a>
 
 - <a href='https://allisonhmoore.github.io'>Allison Moore</a>
 

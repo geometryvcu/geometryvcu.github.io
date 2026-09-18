@@ -7,6 +7,8 @@ nav: false
 nav_order: #
 ---
 
+2026--2027 organizers: 
+
 <div class="embeddable_schedule" shortname="vcugeomandtop" daterange="future"></div>
 <script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
 
